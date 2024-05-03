@@ -3,9 +3,10 @@ A APT Attack Simulation for APT 29 &amp; Lockbit
 
 # Authors
 
-* Abdulrhman Mohammed => https://github.com/de3vil 
-* Abdallah Mohammed   => https://github.com/abdallah-elsharif/
+* Abdulrhman Mohammed => https://github.com/de3vil
 * Hossam Ehab         => https://github.com/0xHossam
+* Abdallah Mohammed   => https://github.com/0xNinjaCyclone/
+
 
 # How does it works!
 
